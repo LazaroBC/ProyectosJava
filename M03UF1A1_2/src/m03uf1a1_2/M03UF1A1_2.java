@@ -33,7 +33,7 @@ public class M03UF1A1_2 {
         cm = sc.nextDouble();
         System.out.print("Introduce la medida en metros: ");
         mt = sc.nextDouble();
-        suma = (mm/10)+cm+(mt*10);
+        suma = (mm/10)+cm+(mt*100);
        System.out.print("La suma total en centímetros es: " + suma );
         
         
