@@ -6,6 +6,19 @@
     "configurations": [
         {
             "type": "java",
+            "name": "M03UF1A3_1",
+            "request": "launch",
+            "mainClass": "m03uf1a3_1.M03UF1A3_1"
+        },
+        {
+            "type": "java",
+            "name": "M04UF2A1_4",
+            "request": "launch",
+            "mainClass": "m04uf2a1_4.M04UF2A1_4",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "M03UF1A3_3_1",
             "request": "launch",
             "mainClass": "m03uf1a3_3_1.M03UF1A3_3_1",
