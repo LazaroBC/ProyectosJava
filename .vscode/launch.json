@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "M03UF3A1_2",
+            "request": "launch",
+            "mainClass": "m03uf3a1_2.M03UF3A1_2",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "M03UF3A1_1",
+            "request": "launch",
+            "mainClass": "m03uf3a1_1.M03UF3A1_1",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "M03UF1A3_1",
             "request": "launch",
             "mainClass": "m03uf1a3_1.M03UF1A3_1"
